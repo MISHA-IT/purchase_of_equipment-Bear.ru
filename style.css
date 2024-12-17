@@ -48,7 +48,7 @@ header {
 }
 .search_bar {
     overflow: hidden;
-    flex:1;
+    display:flex;
 }
 .search_button {
     color: rgb(255, 255, 255);
